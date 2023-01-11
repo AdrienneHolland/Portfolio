@@ -114,3 +114,6 @@ em {
     height: 20px;
     width: 80px;
 }
+.banner {
+    display: flex;
+}
